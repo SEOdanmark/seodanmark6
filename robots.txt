@@ -1,0 +1,1 @@
+Sitemap: https://chopchopwebsite.netlify.app/sitemap.xml
